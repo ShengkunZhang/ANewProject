@@ -19,6 +19,8 @@
     /*
         初始版
      */
+    
+    // 测试版本回退问题
 }
 
 - (void)didReceiveMemoryWarning {
