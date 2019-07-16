@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"这个事MV3分支的文件");
+    NSLog(@"我的测试，用于修改这个文件，然后在遴选到主分支上去");
 }
 
 /*
