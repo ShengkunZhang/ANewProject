@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		73B8011F22DD7BD000E0F056 /* MV1VC.m in Sources */ = {isa = PBXBuildFile; fileRef = 73B8011E22DD7BD000E0F056 /* MV1VC.m */; };
 		842A163F1C45088F007681E1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 842A163E1C45088F007681E1 /* main.m */; };
 		842A16421C45088F007681E1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 842A16411C45088F007681E1 /* AppDelegate.m */; };
 		842A16451C45088F007681E1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 842A16441C45088F007681E1 /* ViewController.m */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		73B8011D22DD7BD000E0F056 /* MV1VC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MV1VC.h; sourceTree = "<group>"; };
+		73B8011E22DD7BD000E0F056 /* MV1VC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MV1VC.m; sourceTree = "<group>"; };
 		842A163A1C45088F007681E1 /* GithubLaboratoryA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubLaboratoryA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		842A163E1C45088F007681E1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		842A16401C45088F007681E1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -105,6 +108,8 @@
 				842A16411C45088F007681E1 /* AppDelegate.m */,
 				842A16431C45088F007681E1 /* ViewController.h */,
 				842A16441C45088F007681E1 /* ViewController.m */,
+				73B8011D22DD7BD000E0F056 /* MV1VC.h */,
+				73B8011E22DD7BD000E0F056 /* MV1VC.m */,
 				842A16461C45088F007681E1 /* Main.storyboard */,
 				842A16491C45088F007681E1 /* Assets.xcassets */,
 				842A164B1C45088F007681E1 /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				842A16451C45088F007681E1 /* ViewController.m in Sources */,
 				842A16421C45088F007681E1 /* AppDelegate.m in Sources */,
 				842A163F1C45088F007681E1 /* main.m in Sources */,
+				73B8011F22DD7BD000E0F056 /* MV1VC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -496,6 +502,7 @@
 				842A16691C45088F007681E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		842A166A1C45088F007681E1 /* Build configuration list for PBXNativeTarget "GithubLaboratoryATests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +511,7 @@
 				842A166C1C45088F007681E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		842A166D1C45088F007681E1 /* Build configuration list for PBXNativeTarget "GithubLaboratoryAUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +520,7 @@
 				842A166F1C45088F007681E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
