@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		73B8011F22DD7BD000E0F056 /* MV1VC.m in Sources */ = {isa = PBXBuildFile; fileRef = 73B8011E22DD7BD000E0F056 /* MV1VC.m */; };
+		73B8012822DD822700E0F056 /* MV2VC.m in Sources */ = {isa = PBXBuildFile; fileRef = 73B8012622DD822600E0F056 /* MV2VC.m */; };
 		842A163F1C45088F007681E1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 842A163E1C45088F007681E1 /* main.m */; };
 		842A16421C45088F007681E1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 842A16411C45088F007681E1 /* AppDelegate.m */; };
 		842A16451C45088F007681E1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 842A16441C45088F007681E1 /* ViewController.m */; };
@@ -38,6 +39,8 @@
 /* Begin PBXFileReference section */
 		73B8011D22DD7BD000E0F056 /* MV1VC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MV1VC.h; sourceTree = "<group>"; };
 		73B8011E22DD7BD000E0F056 /* MV1VC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MV1VC.m; sourceTree = "<group>"; };
+		73B8012622DD822600E0F056 /* MV2VC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MV2VC.m; sourceTree = "<group>"; };
+		73B8012722DD822600E0F056 /* MV2VC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MV2VC.h; sourceTree = "<group>"; };
 		842A163A1C45088F007681E1 /* GithubLaboratoryA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubLaboratoryA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		842A163E1C45088F007681E1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		842A16401C45088F007681E1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				842A16441C45088F007681E1 /* ViewController.m */,
 				73B8011D22DD7BD000E0F056 /* MV1VC.h */,
 				73B8011E22DD7BD000E0F056 /* MV1VC.m */,
+				73B8012722DD822600E0F056 /* MV2VC.h */,
+				73B8012622DD822600E0F056 /* MV2VC.m */,
 				842A16461C45088F007681E1 /* Main.storyboard */,
 				842A16491C45088F007681E1 /* Assets.xcassets */,
 				842A164B1C45088F007681E1 /* LaunchScreen.storyboard */,
@@ -278,6 +283,7 @@
 				842A16451C45088F007681E1 /* ViewController.m in Sources */,
 				842A16421C45088F007681E1 /* AppDelegate.m in Sources */,
 				842A163F1C45088F007681E1 /* main.m in Sources */,
+				73B8012822DD822700E0F056 /* MV2VC.m in Sources */,
 				73B8011F22DD7BD000E0F056 /* MV1VC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
