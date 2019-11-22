@@ -29,4 +29,9 @@
     // 随意提交测试
 }
 
+- (void)viewWillAppear:(BOOL)animated {
+    [super viewWillAppear:animated];
+    // 测试提交修改之前的提交信息
+}
+
 @end
