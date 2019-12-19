@@ -22,6 +22,8 @@
     
     // 第二次文件冲突测试
     NSLog(@"test");
+    
+    // 移动文件路径后的首次提交代码
 }
 
 - (void)didReceiveMemoryWarning {
